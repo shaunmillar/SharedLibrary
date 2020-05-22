@@ -3,9 +3,11 @@
   <groupId>my.pkg.name</groupId>
   <artifactId>SharedLibrary</artifactId>
   <versioning>
+    <release>0.1.0</release>
     <versions>
       <version>0.1.0-SNAPSHOT</version>
+      <version>0.1.0</version>
     </versions>
-    <lastUpdated>20200522211518</lastUpdated>
+    <lastUpdated>20200522212015</lastUpdated>
   </versioning>
 </metadata>
