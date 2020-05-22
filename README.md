@@ -1,0 +1,3 @@
+# SharedLibrary
+
+Demonstration shared library
