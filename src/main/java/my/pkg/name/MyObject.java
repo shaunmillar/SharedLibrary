@@ -10,7 +10,7 @@ public class MyObject {
 	
 	
 	public String getGreeting() {
-		return "Hello World, v0.2.0";
+		return "Hello World, v0.1.0";
 	}
 
 }
